@@ -1,0 +1,4 @@
+﻿  MiShen.cpp
+C:\Users\slend\source\repos\MiShen\MiShen\MiShen.cpp(22,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\slend\source\repos\MiShen\MiShen\MiShen.cpp(30,27): warning C4244: =: преобразование "double" в "unsigned short", возможна потеря данных
+  MiShen.vcxproj -> C:\Users\slend\source\repos\MiShen\Debug\MiShen.exe
